@@ -1,0 +1,1 @@
+<?phpif ( is_front_page() ) { ?><meta name="twitter:image" content="https://blog.dcmn.com/wp-content/uploads/2021/06/pic_XL_2019_6_3_16_40_47-scaled.jpg"></meta><?php}?>
